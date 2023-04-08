@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+header{
+    background-color: green;
+    margin: -10px;
+    height: 150px;
+}
+
+nav{
+    margin-left: 35px;
+    padding-top: 20px;
+}
+
+a:link{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #ff0;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #00f;
+    text-decoration: overline underline;
+}
+
+a:active{
+    color: #0f0;
+    text-decoration: none;
+}
+
+img{
+    padding-left: 45%;
+    padding-top: 40px;
+}
